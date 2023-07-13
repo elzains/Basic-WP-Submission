@@ -182,6 +182,15 @@ button {
     font-size: 12px;
 }
 
+button a {
+    color : #3A3531;
+    text-decoration: none;
+}
+
+button a:hover {
+    color: #ffffff;
+}
+
 button:hover {
     background-color: #3A3531;
     color: #ffffff;

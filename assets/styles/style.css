@@ -182,12 +182,12 @@ button {
     font-size: 12px;
 }
 
-button a {
+.profile button a {
     color : #3A3531;
     text-decoration: none;
 }
 
-button a:hover {
+.profile button a:hover {
     color: #ffffff;
 }
 
